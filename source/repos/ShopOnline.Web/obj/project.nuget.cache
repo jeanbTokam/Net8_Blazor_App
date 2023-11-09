@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "N/fpS6GkABDm6iNfJH+oycXFLNtcIEJKYGS/ZYd7eH51JvgxMdsjUxCh6cGHv1H7MazpsiH66mDpyFu7gIeCGQ==",
+  "dgSpecHash": "haZvdjbwyC9cYWPXkYYQrGE2+VK1SMNgQ8AvWkMfYPXm0zCnsw5Bi0sVpcXk6EPqt3usi97Tp+EoiNZxYn44Ew==",
   "success": true,
   "projectFilePath": "C:\\Users\\jbtok\\source\\repos\\ShopOnline.Web\\ShopOnline.Web.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jbtok\\.nuget\\packages\\copilotdev.net.api\\1.1.0\\copilotdev.net.api.1.1.0.nupkg.sha512",
     "C:\\Users\\jbtok\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.21\\microsoft.aspnetcore.authorization.6.0.21.nupkg.sha512",
     "C:\\Users\\jbtok\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.21\\microsoft.aspnetcore.components.6.0.21.nupkg.sha512",
     "C:\\Users\\jbtok\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.21\\microsoft.aspnetcore.components.analyzers.6.0.21.nupkg.sha512",
